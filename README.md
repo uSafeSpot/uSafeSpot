@@ -9,7 +9,7 @@
 ----
 ## Activities
 ### Problem Solving 
-[[Baekjoon Online Judge]](https://acmicpc.net/user/devluyten/) | [[solved.ac]](https://solved.safespot.dev/)
+[[Baekjoon Online Judge]](https://acmicpc.net/user/devluyten) | [[solved.ac]](https://solved.safespot.dev/)
 <br />
 
 ### Competitive Programming
