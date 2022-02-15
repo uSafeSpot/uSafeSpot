@@ -2,7 +2,7 @@
 
 [[Personal Webpage]](https://safespot.dev/)\
 <br />
-[[Naver Blog]](https://blog.safespot.dev/)
+[[Blog]](https://blog.safespot.dev/)
 <br />
 <br />
 
