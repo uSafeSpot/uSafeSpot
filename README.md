@@ -1,5 +1,7 @@
 # SafeSpot::github
 
+Department of Mathematics 22, Korea University
+
 [[Personal Webpage]](https://safespot.dev/)\
 <br />
 [[Blog]](https://blog.safespot.dev/)
